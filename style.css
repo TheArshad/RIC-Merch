@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.marchendise {
+    width: 994px;
+    height: 2030px;
+    margin-left: 218px;
+}
+
+.tees {
+    width: 994px;
+    gap: 5px;
+    margin-bottom: 80px;
+}
+
+#white-tee{
+    height: 420px;
+}
+
+
+.tees-text {
+    display: flex;
+    width: 994px;
+    height: 34px;
+    opacity: 0px;
+    color: #00B0A6;
+    margin-left: 5px;
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 300;
+    line-height: 34px;
+    text-align: left;
+    position: relative;
+    
+}
+.For-right{
+    display: flex;
+    gap: 5px;
+    position:absolute;
+    right: 15px;
+}
+
+
+.tees-text span {
+    font-family: Lato;
+    font-size: 48px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+}
+
+.tees-img {
+    padding: 2px;
+    width: 970px;
+    margin-top: 16px;
+    margin-left: 12px;
+    gap: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #00B0A6;
+}
+
+#first-img{
+    height: 365px;
+}
+
+#navy-tee{
+    height: 430px;
+}
+#second-img{
+    height: 360px;
+}
+
+#white-shirt{
+    height: 496px;
+}
+#third-img{
+    height: 438px;
+}
+#navy-shirt{
+    height: 486px;
+}
+#forth-img{
+    height: 434px;
+}
+
